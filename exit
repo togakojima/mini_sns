@@ -1,0 +1,47 @@
+=> {[31m[1;31m"[0m[31mprovider[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mgoogle_oauth2[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31muid[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m105595961861169934438[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31minfo[1;31m"[0m[31m[0m=>
+  {[31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mToga Kojima[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31memail[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mtogakojima1999@gmail.com[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31munverified_email[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mtogakojima1999@gmail.com[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31memail_verified[1;31m"[0m[31m[0m=>[1;36mtrue[0m,
+   [31m[1;31m"[0m[31mfirst_name[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mToga[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mlast_name[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mKojima[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m=>
+    [31m[1;31m"[0m[31mhttps://lh3.googleusercontent.com/a/ACg8ocKkUu2kq3O3CMG792bvEh21VUdAk0Dj7Nkzx3exWAnPYKZjs5c3=s96-c[1;31m"[0m[31m[0m},
+ [31m[1;31m"[0m[31mcredentials[1;31m"[0m[31m[0m=>
+  {[31m[1;31m"[0m[31mtoken[1;31m"[0m[31m[0m=>
+    [31m[1;31m"[0m[31mya29.a0AXooCgstF4umBK6MV4w5aVPUfV_zNfTOsuyZif2Kh_Sk8AwgZW15Z3rYu9PYxjX2-56SImyrL5ymTS_bcK-XZxlnHNLzoSjtM7dH7-Mwzb1AZgW3h1ad-yszWcpNpYMgmlfnyHvTxgrtxJs54j68wSvxQIR4wTJLw90BaCgYKAQESARASFQHGX2MiBW1f1jeY8M95oA6nr4-w_A0171[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mrefresh_token[1;31m"[0m[31m[0m=>
+    [31m[1;31m"[0m[31m1//0esJKnUIoLpqyCgYIARAAGA4SNwF-L9IrUcGSobaG0_BONxNlFfJgdfZsG1VYJ0KAc6JF3JvTuQPe2ixWGoiF9ReKLdZlQAU-89I[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mexpires_at[1;31m"[0m[31m[0m=>[1;34m1719316960[0m,
+   [31m[1;31m"[0m[31mexpires[1;31m"[0m[31m[0m=>[1;36mtrue[0m,
+   [31m[1;31m"[0m[31mscope[1;31m"[0m[31m[0m=>
+    [31m[1;31m"[0m[31mhttps://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid[1;31m"[0m[31m[0m},
+ [31m[1;31m"[0m[31mextra[1;31m"[0m[31m[0m=>
+  {[31m[1;31m"[0m[31mid_token[1;31m"[0m[31m[0m=>
+    [31m[1;31m"[0m[31meyJhbGciOiJSUzI1NiIsImtpZCI6IjNkNTgwZjBhZjdhY2U2OThhMGNlZTdmMjMwYmNhNTk0ZGM2ZGJiNTUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI0MzQ1NTg0OTA1MjEtNjNmZ3RwYWZnYTYyajJqazhudTFrbWkwcGtqOGNqdnIuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI0MzQ1NTg0OTA1MjEtNjNmZ3RwYWZnYTYyajJqazhudTFrbWkwcGtqOGNqdnIuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDU1OTU5NjE4NjExNjk5MzQ0MzgiLCJlbWFpbCI6InRvZ2Frb2ppbWExOTk5QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiY3U5NVZJZ2JqRWctVktKa05ndjdXUSIsIm5hbWUiOiJUb2dhIEtvamltYSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NLa1V1MmtxM08zQ01HNzkyYnZFaDIxVlVkQWswRGo3Tmt6eDNleFdBblBZS1pqczVjMz1zOTYtYyIsImdpdmVuX25hbWUiOiJUb2dhIiwiZmFtaWx5X25hbWUiOiJLb2ppbWEiLCJpYXQiOjE3MTkzMTMzNjAsImV4cCI6MTcxOTMxNjk2MH0.G3dBccy_mjqB5gMAUThIVIxvu9goP3JiK9LdOz3uJ7xlQiuCvugtM8NKDwRS36XkiT4NJl7ZkvVTuihAlxs9FA7RrPzbcez89cUX7kFmDHKU6zMkLKdcigv-FsMWntYPqycIg3EihaG4GphZ2csG2T4if_NcTgz7c9Z_OiFUFe7dhwg6wIGNJ3Z0gpOZ1gKmdp10Z5RIZ29VA_dlz8KVai6ZWy7GFqkgjrJcyWlZjo8U8r9sX_pTUO6X-7VJbM1EJXlK7VcSLi_FQ9-PITJLWJPrSNAC0cthvfkyVeBsinIcjBaBqwLPcQKtv0thx3sqmiDjGbYmC5q0Nga8qT2kcg[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mid_info[1;31m"[0m[31m[0m=>
+    {[31m[1;31m"[0m[31miss[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mhttps://accounts.google.com[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31mazp[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m434558490521-63fgtpafga62j2jk8nu1kmi0pkj8cjvr.apps.googleusercontent.com[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31maud[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m434558490521-63fgtpafga62j2jk8nu1kmi0pkj8cjvr.apps.googleusercontent.com[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31msub[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m105595961861169934438[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31memail[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mtogakojima1999@gmail.com[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31memail_verified[1;31m"[0m[31m[0m=>[1;36mtrue[0m,
+     [31m[1;31m"[0m[31mat_hash[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mcu95VIgbjEg-VKJkNgv7WQ[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mToga Kojima[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31mpicture[1;31m"[0m[31m[0m=>
+      [31m[1;31m"[0m[31mhttps://lh3.googleusercontent.com/a/ACg8ocKkUu2kq3O3CMG792bvEh21VUdAk0Dj7Nkzx3exWAnPYKZjs5c3=s96-c[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31mgiven_name[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mToga[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31mfamily_name[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mKojima[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31miat[1;31m"[0m[31m[0m=>[1;34m1719313360[0m,
+     [31m[1;31m"[0m[31mexp[1;31m"[0m[31m[0m=>[1;34m1719316960[0m},
+   [31m[1;31m"[0m[31mraw_info[1;31m"[0m[31m[0m=>
+    {[31m[1;31m"[0m[31msub[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m105595961861169934438[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mToga Kojima[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31mgiven_name[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mToga[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31mfamily_name[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mKojima[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31mpicture[1;31m"[0m[31m[0m=>
+      [31m[1;31m"[0m[31mhttps://lh3.googleusercontent.com/a/ACg8ocKkUu2kq3O3CMG792bvEh21VUdAk0Dj7Nkzx3exWAnPYKZjs5c3=s96-c[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31memail[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mtogakojima1999@gmail.com[1;31m"[0m[31m[0m,
+     [31m[1;31m"[0m[31memail_verified[1;31m"[0m[31m[0m=>[1;36mtrue[0m}}}
